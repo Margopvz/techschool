@@ -1,1 +1,2 @@
 # techschool
+lorem Ipsum
